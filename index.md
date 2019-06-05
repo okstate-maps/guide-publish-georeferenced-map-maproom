@@ -62,6 +62,7 @@ If you see any other warnings or errors, please see Kevin.*
 16. Record your progress on the [spreadsheet](https://docs.google.com/spreadsheets/d/11AVFGlfQdQSNu6PRN98cSw4xKW1NvMasxrXGEZOBSko/edit?usp=sharing).
 
 ## Conclusion
+ArcGIS Pro offers numerous options when it comes to sharing or publishing projects. 
 
 ## Further Reading/Resources
 
