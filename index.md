@@ -56,11 +56,13 @@ ArcGIS Pro allows completed projects to be published online or shared with other
 
 *Note: If all is well, you should see a single warning, 20034 Your web layer will use the WGS 1984…
 If you see any other warnings or errors, please see Kevin.*
+
 15. If that’s the only warning you see, go ahead and click **Publish**. A pop up should appear, saying it has been successfully published. 
 
 ![Publish](images/Publish.PNG) 
 
 *Note: The process of publishing may take some time.*
+
 16. Record your progress on the [spreadsheet](https://docs.google.com/spreadsheets/d/11AVFGlfQdQSNu6PRN98cSw4xKW1NvMasxrXGEZOBSko/edit?usp=sharing).
 
 ## Conclusion
