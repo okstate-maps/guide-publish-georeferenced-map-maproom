@@ -43,6 +43,7 @@ ArcGIS Pro allows completed projects to be published online or shared with other
 ![Levels of detail](images/LevelsOfDetail.PNG)
 
 *Note: For a map of Oklahoma, set the maximum to 17. For a map of the continental US, set the maximum to 12 )*
+
 13. Check **Allow clients to export cache tiles**, and leave the value at the default of **100000**.
 
 ![Clients](images/Clients.PNG)
