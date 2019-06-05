@@ -21,10 +21,8 @@ ArcGIS Pro allows completed projects to be published online or shared with other
 3. Right click the map layer in contents, then **Sharing** and **Share As Web Layer**.
 4. Set the name to the file name, but prefix it with *oksm* plus the appropriate collection ID, replace spaces with underscores, and remove any file extension. 
 *For example, 832 Map 2.jpg becomes oksm_SS_832_Map_2.*
-5. Find the map in the digital collection. Include the year and title, and which subcollection it belongs to, as well as a link to the map in the digital collection.
-*For example:
-Map illustrating the general geological features of the country west of the Mississippi River. A map published in 1857 in the Congressional Serial Set. Part of the McCasland Collection of the [Oklahoma Digital Map Collection](https://dc.library.okstate.edu/digital/collection/OKMaps/id/8905/rec/1).*
-6. For the *Summary*, write out the full title and include the link to the map in the library map collection.
+5. Find the map in the [digital collection](https://library.okstate.edu/search-and-find/collections/digital-collections/oklahoma-digital-maps-collection/).  
+6. For the *Summary*, include the year, title, which subcollection it belongs to and a link to the map in the digital collection.
 7. For *Tags*, include **Oklahoma Digital Map Collection** and **Library**.
 8. Set *Layer Type* to **Tile**.
 9. Set the folder to **GeoreferencedMaps**. If needed, create a new folder using dropdown.
