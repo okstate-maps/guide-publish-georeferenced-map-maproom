@@ -24,7 +24,9 @@ ArcGIS Pro allows completed projects to be published online or shared with other
 ![Share as web layer](images/ShareAsWebLayer.PNG)
 
 4. Set the name to the file name, but prefix it with *oksm* plus the appropriate collection ID, replace spaces with underscores, and remove any file extension. 
+
 *For example, 832 Map 2.jpg becomes oksm_SS_832_Map_2.*
+
 5. Find the map in the [digital collection](https://library.okstate.edu/search-and-find/collections/digital-collections/oklahoma-digital-maps-collection/).  
 6. For the *Summary*, include the year, title, which subcollection it belongs to and a link to the map in the digital collection.
 7. For *Tags*, include **Oklahoma Digital Map Collection** and **Library**.
