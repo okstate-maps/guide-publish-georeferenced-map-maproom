@@ -11,7 +11,7 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - Further Reading/Resources
 
 ## Introduction
-ArcGIS Pro allows completed projects to be published online or shared with others. ArcGIS Online is a common publishing platform. For more information on how to georeference a map, go to (add link).
+ArcGIS Pro allows completed projects to be published online or shared with others. ArcGIS Online is a common publishing platform. 
 
 ## *[Publishing a Georeferenced Map]*
 1. Open a georeferenced map in ArcGIS Pro. Make sure it is highlighted/selected in the *Contents* pane.
